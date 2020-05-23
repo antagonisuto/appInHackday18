@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="action_search_text">Search</string>
+    <string name="account_settings_text">Account Settings</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_reg_text">Need a new account?</string>
+    <string name="login_btn_text">Login</string>
+    <string name="register_btn_text">Register</string>
+    <string name="Register_CofirmPassword_text">confirm password</string>
+    <string name="action_scan_text">Scan</string>
+    <string name="phone_number">Phone number +7(777)7777777)</string>
+    <string name="send_button">Send</string>
+    <string name="conf_code_example">0001</string>
+    <string name="setup_name_hint">Name</string>
+    <string name="setup_btn_text">Setup</string>
+    <string name="bottom_action_news_text">news</string>
+    <string name="bottom_action_room_text">rooms</string>
+    <string name="bottom_action_Mine_text">mine</string>
+
+    <string name="book">Bookie</string>
+    <string name="bussiness">For Bussiness</string>
+    <string name="friends">Friends</string>
+
+    <string-array name="descriptions">
+        <item>HackDay является зарегистрированным товарным знаком. Любое несанкционированное использование товарного знака HackDay в коммерческих целях запрещено.</item>
+        <item>HackDay является зарегистрированным товарным знаком. Любое несанкционированное использование товарного знака HackDay в коммерческих целях запрещено.</item>
+        <item>HackDay является зарегистрированным товарным знаком. Любое несанкционированное использование товарного знака HackDay в коммерческих целях запрещено.</item>
+    </string-array>
+
+    <string-array name="locations">
+        <item>г.Алматы, ул. Жандосова 45</item>
+        <item>г.Алматы, ул. Жандосова 45</item>
+        <item>г.Алматы, ул. Жандосова 45</item>
+    </string-array>
+
+    <string-array name="capacity">
+        <item>200</item>
+        <item>50</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="names">
+        <item>Конференция за планету</item>
+        <item>Conferingce room No.2</item>
+        <item>Conferingce room No.3</item>
+    </string-array>
+
+    <string-array name="news_title">
+        <item>Tittle 1</item>
+        <item>Tittle 2</item>
+    </string-array>
+
+    <string-array name="news_conteng">
+        <item>This is the 1st content!</item>
+        <item>This is the 2nd content!</item>
+    </string-array>
+</resources>

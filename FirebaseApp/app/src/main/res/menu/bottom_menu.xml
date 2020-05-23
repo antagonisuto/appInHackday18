@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_action_news"
+        android:icon="@drawable/notification"
+        android:title="@string/bottom_action_news_text" />
+    <item
+        android:id="@+id/bottom_action_scan"
+        android:icon="@drawable/scan_qr"
+        android:title="@string/action_scan_text" />
+    <item
+        android:id="@+id/bottom_action_roomlist"
+        android:icon="@android:drawable/ic_menu_slideshow"
+        android:title="@string/bottom_action_room_text" />
+    <item
+        android:id="@+id/bottom_action_Mine"
+        android:icon="@drawable/user"
+        android:title="@string/bottom_action_Mine_text" />
+</menu>
